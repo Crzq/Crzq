@@ -24,4 +24,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: I'm to be アイスクリーム　:icecream:
 - ⚡ Fun fact: I'm not a GAY
 
+<!--
+``` go
+package main
+import ("fmt")
+
+func main() {
+    fmt.Println("Hello World!")
+}
+```
+-->
+
 [![Top Langs](https://crzq.vercel.app/api/top-langs/?username=Crzq&theme=tokyonight)](https://github.com/Crzq)
