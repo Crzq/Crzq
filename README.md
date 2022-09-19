@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with C
 - 💬 Ask me about <ruby>漢<rt>かん</rt>字<rt>じ</rt>
 - 📫 How to reach me: Just msg me :smile: canyouqiavo@gmail.com
-- 😄 Pronouns: I'm to be アイスクリーム　:icecream:
+- 😄 Pronouns: I'm to be アイスクリーム :icecream:
 - ⚡ Fun fact: I'm not a GAY
 
 
