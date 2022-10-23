@@ -36,4 +36,4 @@ func main() {
 ```
 -->
 
-[![Top Langs](https://github-readme-stats-9czb7ane9-crzq.vercel.app/api/top-langs/?username=Crzq&theme=tokyonight)](https://github.com/Crzq)
+[![Top Langs](https://crzq.vercel.app/api/top-langs/?username=Crzq&theme=tokyonight)](https://github.com/Crzq)
