@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Just msg me :smile: canyouqiavo@gmail.com
 - 😄 Pronouns: I'm to be アイスクリーム :icecream:
 - ⚡ Fun fact: I'm not GAY
-    
-- 😊 暂时搬家到 [Gitee](https://www.gitee.com/qiavo) 啦！！！ 
 
 
 <!--
