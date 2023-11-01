@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Microsoft? :flushed:
 - 🤔 I’m looking for help with C
 - 💬 Ask me about <ruby>漢<rt>かん</rt>字<rt>じ</rt>
-- 📫 How to reach me: Just msg me :smile: canyouqiavo@gmail.com
+- 📫 How to reach me: Just msg me :smile: QiavoX@gmail.com
 - 😄 Pronouns: I'm to be アイスクリーム :icecream:
 - ⚡ Fun fact: I'm not GAY
 
